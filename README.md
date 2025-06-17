@@ -2,30 +2,38 @@
 
 🎓 Computer Science Undergrad @ BVRIT  
 📍 Hyderabad, India | 🌐 [riteshoncode](https://github.com/RiteshOnCode)  
-🧠 Passionate about solving real-world problems with ML, full-stack development, and scalable systems.  
-🚀 Currently building: AI systems, indie tools, and contributing to real client projects.
+🧠 Passionate about building ML-powered systems, scalable interfaces, and solving real-world problems through tech.  
+🚀 Learning fast. Shipping faster.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 **Languages**: Python, JavaScript, C, Java  
 **Libraries/Frameworks**: scikit-learn, SHAP, pandas, React, Node.js  
 **Tools**: Git, GitHub, VS Code, Overleaf  
-**Concepts**: Machine Learning, Prompt Engineering, System Design
+**Core Interests**: Machine Learning, Interpretability, System Design
 
 ---
 
-## 🚧 Current Projects
+## 🚀 Featured Projects
 
 ### 💳 [AI-Driven Credit Card Fraud Detection](https://github.com/RiteshOnCode/AI-Credit-Card-Fraud-Detection)
-Built a machine learning model to detect fraudulent transactions using SMOTE + Random Forest + SHAP. Real-time flagging + interpretability included.
+Built a real-time fraud detection system using SMOTE, Random Forest, and SHAP for interpretability. Features risk flagging, class imbalance handling, and explainability visualizations.
 
-### 🧠 LLM-Powered Feedback Summarizer *(In Progress)*
-Final year project to help creators summarize audience feedback and generate actionable insights using large language models.
+### 🌬️ IoT Smart AC System *(Summary Only)*
+Designed a system that adjusts cooling dynamically using sensor data to save energy and improve comfort.  
+🛠️ *[Implementation not yet open-sourced]*
 
-### 🌐 Freelance Web Projects *(Aasaan)*
-Working with a 3-member team on live business websites, product catalogues, and UI/UX enhancements.
+---
+
+## 💼 Internship Experience
+
+### 🏢 **Software Development Intern @ Aasaan** *(Apr 2025 – Present)*  
+Working on a no-code website builder platform at a fast-growing company.  
+- Contributed to feature rollouts and UI improvements  
+- Collaborated with team to deliver client-facing enhancements  
+- Gained experience in real-world product development cycles
 
 ---
 
@@ -46,4 +54,4 @@ Working with a 3-member team on live business websites, product catalogues, and 
 
 ---
 
-> _“Code it. Ship it. Learn. Repeat.”_
+> _“Build systems that solve problems. Not just code that runs.”_
